@@ -1,0 +1,20 @@
+/* CSS cody by Eric */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #fd3cdd;
+    padding: 20px;
+}/*body setup*/
+
+h1 {
+    color: #69f7ef;
+}/*header setup*/
+
+button {
+    background-color: #1839f5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 12px;
+}/*button setup*/
